@@ -1,0 +1,2 @@
+# Work Log
+Resolve intermittent failure in end-to-end test suite
